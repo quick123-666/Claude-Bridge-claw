@@ -41,14 +41,10 @@
 <p align="center">
   <a href="#english">English</a>
   &nbsp;·&nbsp;
-  <a href="#english">日本語</a>
-  &nbsp;·&nbsp;
-  <a href="#english">한국어</a>
-  &nbsp;·&nbsp;
   <a href="#english">Español</a>
 </p>
 
-<p align="center"><sub>日本語 / 한국어 / Español 独立文档尚未拆分；可先阅读文末 <strong>English</strong> 摘要。欢迎 PR 补全翻译。</sub></p>
+<p align="center"><sub>Español 独立文档尚未拆分；可先阅读文末 <strong>English</strong> 摘要。欢迎 PR 补全翻译。</sub></p>
 
 <p align="center">&nbsp;</p>
 
