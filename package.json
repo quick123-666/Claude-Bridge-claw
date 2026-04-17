@@ -1,0 +1,45 @@
+{
+  "name": "claude-bridge-claw",
+  "version": "1.0.0",
+  "description": "Claude Code plugin adapter for OpenClaw - Use Claude Code plugins in OpenClaw",
+  "main": "src/index.js",
+  "bin": {
+    "claude-bridge-claw": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node tests/test.js",
+    "scan": "node src/cli.js scan",
+    "adapt": "node src/cli.js adapt",
+    "install": "node src/cli.js install",
+    "list": "node src/cli.js list",
+    "lint": "eslint src/",
+    "format": "prettier --write src/**/*.js"
+  },
+  "keywords": [
+    "openclaw",
+    "claude-code",
+    "plugin-adapter",
+    "compatibility-layer",
+    "claude-code-plugins"
+  ],
+  "author": "TraeBuddy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/traebuddy/claude-bridge-claw"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "peerDependencies": {
+    "openclaw": ">=1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "chalk": "^4.1.2"
+  }
+}

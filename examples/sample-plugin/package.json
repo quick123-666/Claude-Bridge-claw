@@ -1,0 +1,6 @@
+{
+  "name": "sample-claude-plugin",
+  "version": "1.0.0",
+  "description": "A sample Claude Code plugin for testing Claw Adapter",
+  "main": "index.js"
+}
