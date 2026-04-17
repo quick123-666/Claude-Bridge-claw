@@ -36,18 +36,6 @@
 
 <p align="center">&nbsp;</p>
 
-<p align="center"><strong>其他语言 / Other Languages:</strong></p>
-
-<p align="center">
-  <a href="#english">English</a>
-  &nbsp;·&nbsp;
-  <a href="#english">Español</a>
-</p>
-
-<p align="center"><sub>Español 独立文档尚未拆分；可先阅读文末 <strong>English</strong> 摘要。欢迎 PR 补全翻译。</sub></p>
-
-<p align="center">&nbsp;</p>
-
 <p align="center">
   <a href="https://star-history.com/#quick123-666/Claude-Bridge-claw&amp;Date">
     <img src="https://api.star-history.com/svg?repos=quick123-666/Claude-Bridge-claw&amp;type=Date" alt="Star History Chart" />
